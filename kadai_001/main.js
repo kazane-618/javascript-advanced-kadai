@@ -121,7 +121,6 @@ const timer = () => {
             gameOver(id);
         }
     }, 1000);
-    return time;
 };
 
 //ゲームスタート時の処理
